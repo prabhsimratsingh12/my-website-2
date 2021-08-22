@@ -1,0 +1,29 @@
+p{
+    color: #49ffff;
+    font-weight: bold;
+    font-size: 10mm;
+}
+*{
+    text-align: center;
+}
+a{
+    font-size: 10mm;
+    color:#000;
+}
+
+.header {
+    background-color: #253de2;
+    display:flex;
+    justify-content: space-between;
+}
+
+.grid {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer {
+    display: flex;
+    justify-content: flex-end;
+}
